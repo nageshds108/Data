@@ -1,1 +1,1 @@
-hello!!!!!
+This project builds an interactive Excel Data Jobs Dashboard to analyze job roles by title, country, and type with dynamic filters. It calculates key insights such as median salary, top hiring platform, and job count. Visualizations update instantly using  slicers and charts for clear salary and job trend analysis.
